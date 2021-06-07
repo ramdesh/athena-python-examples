@@ -1,0 +1,5 @@
+sqlalchemy
+pyathena
+boto3
+pandas
+urllib3
